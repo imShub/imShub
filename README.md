@@ -21,6 +21,15 @@
                        </a>
 - ⚡ Fun fact: **I love to code because it is fun**
 <br/>
+<br/>
+<br/>
+<br/>
+<p align="center">
+  <img src="https://gpvc.arturio.dev/imShub" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/imShub?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/imShub?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 
 ## Contact Me on:
 <a target="_blank" href="https://www.linkedin.com/in/shubham-waghmare-907b2422a/">
@@ -36,3 +45,16 @@
     <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="60px"/>
 </a>&nbsp;&nbsp;
 
+## Shubham's Github Stats
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=imShub&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Shubham's Top Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imShub&show_icons=true&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+## Shubham's Top Repositories
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imShub&show_owner=true&show_icons=true&repo=Flutter_catlog&theme=dark" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imShub&show_icons=true&show_owner=true&repo=Website_Design&theme=dark" />
+</a>
