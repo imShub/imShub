@@ -19,7 +19,7 @@
 - 📫 How to reach me: <a target="_blank" href="mailto:waghmareshubham132@gmail.com">
                         waghmareshubham132@gmail.com
                        </a>
-- ⚡ Fun fact: **I love to code because it is fun**
+- ⚡ Fun fact: **I love to code because it is fun and my passion too**
 <br/>
 <br/>
 <br/>
