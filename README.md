@@ -49,7 +49,7 @@
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=imShub&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Shubham's Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imShub&show_icons=true&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imShub&show_icons=true&theme=radical&langs_count=5&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Shubham's Top Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
