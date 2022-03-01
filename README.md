@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Native App Development Using Flutter with Dart**
-- 👯 I’m looking to collaborate on **Artificial Intelligence, Data Science, App Development or Web Development**
+- 👯 I’m looking to collaborate on **Artificial Intelligence, Data Science, App Development and Web Development**
 - 📫 How to reach me: <a target="_blank" href="mailto:waghmareshubham132@gmail.com">
                         waghmareshubham132@gmail.com
                        </a>
