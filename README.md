@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imShub&show_icons=true&show_owner=true&repo=Website_Design&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imShub&show_icons=true&show_owner=true&repo=OBIGRIP&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imShub&show_icons=true&show_owner=true&repo=OIBGRIP&theme=dark" />
 </a>
 
 
