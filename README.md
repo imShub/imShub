@@ -41,7 +41,7 @@
 <a target="_blank" href="https://www.instagram.com/_shhubham._/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="60px" />
 </a>&nbsp;&nbsp;
-<a target="_blank" href="https://github.com/imShub">
+<a target="_blank" href="https://twitter.com/_shhubham_">
     <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60px" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://stackoverflow.com/users/16026248/shubham-waghmare">
