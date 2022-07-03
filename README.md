@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/imShub/imShub/blob/master/Shubham's%20Profile%20Picture-modified.png" width="200" style="margin: auto;"><img/>
+  <a target="_blank">
+    <img src="https://github.com/imShub/imShub/blob/master/Shubham's%20Profile%20Picture-modified.png" width="200" style="margin: auto;">
+  </a>
   <br>
   <a target="_blank">
     <img src="https://github.com/imShub/imShub/blob/master/Earth.gif" width="24px" style="max-width:100%;">
