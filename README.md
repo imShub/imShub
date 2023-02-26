@@ -72,7 +72,6 @@
 <code><img height="50" width="50" src="https://www.ideatebox.com/wp-content/uploads/2020/05/flutter-e1589180095112.png"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
 <br>
-<br>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="50" width="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code>
 
