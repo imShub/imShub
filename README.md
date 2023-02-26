@@ -87,7 +87,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imShub&theme=dark)](https://git.io/streak-stats)
 
 ## Shubham's Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imShub&show_icons=true&theme=radical&langs_count=5&hide=hack&hide="Jupyter Notebook")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imShub&show_icons=true&theme=radical&langs_count=5&hide=hack,Jupyter%20Notebook,Javascript,SCSS,less)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Shubham's Top Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
