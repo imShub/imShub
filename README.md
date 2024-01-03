@@ -37,7 +37,7 @@
 
 ## Contact Me on:
 <a target="_blank" href="https://github.com/imShub">
-    <img src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" width="60px" />
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60px" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/shubham-waghmare-907b2422a/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60px" />
@@ -67,8 +67,8 @@
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"></code>
+<code><img height="50" width="50" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png"></code>
 <code><img height="50" width="50" src="https://www.ideatebox.com/wp-content/uploads/2020/05/flutter-e1589180095112.png"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
 <br>
