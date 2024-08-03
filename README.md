@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/imShub/imShub/blob/master/profile-pic.png" width="200" style="margin: auto;">
+    <img src="https://github.com/imShub/imShub/blob/master/Hero_banner.png" style="margin: auto;">
   </a>
   <br>
   <a target="_blank">
