@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a target="_blank">
+<!--   <a target="_blank">
     <img src="https://github.com/imShub/imShub/blob/master/profile-pic.png" width="200px" style="margin: auto;">
-  </a>
+  </a> -->
   <br>
   <a target="_blank">
     <img src="https://github.com/imShub/imShub/blob/master/Earth.gif" width="24px" style="max-width:100%;">
